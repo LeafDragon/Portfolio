@@ -1,0 +1,21 @@
+/**
+ * @author Frank Dip
+ */
+
+$green---light: #749971;
+$green: #2A4927;
+
+body {
+  padding-top: 90px;
+  background-color: $green---light;
+}
+
+#fdp-nav--top {background-color: $green;}
+
+.fdp-section {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding-top: 50px;
+}
